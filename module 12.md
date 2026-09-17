@@ -282,6 +282,8 @@ int main()
 Output:
 
 //paste your output here
+
+
 <img width="342" height="163" alt="image" src="https://github.com/user-attachments/assets/13961ee4-e2d6-4c18-8990-756b531b2a4d" />
 
 
