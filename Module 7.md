@@ -50,6 +50,7 @@ int main()
 
 
 Output:
+
 <img width="572" height="228" alt="image" src="https://github.com/user-attachments/assets/0eb5e6b0-1570-4f5e-a5a9-7f8447b1efcc" />
 
 //paste your output here
@@ -113,6 +114,7 @@ int main()
 
 
 Output:
+
 <img width="377" height="167" alt="Screenshot 2026-09-17 104116" src="https://github.com/user-attachments/assets/b7326660-842d-4df1-a679-7cf71bdc538c" />
 
 //paste your output here
@@ -184,11 +186,12 @@ int main()
 
 
 Output:
+```
 Enter file name: sample.txt
 File sample.txt created successfully.
 File opened successfully.
 File closed successfully.
-
+```
 //paste your output here
 Result:
 Thus, the program is verified successfully
@@ -263,13 +266,14 @@ int main()
 
 
 Output:
-
+```
 Enter file name: sample.txt
 Enter number of strings: 2
 File opened successfully.
 Hello
 Welcome to C Programming
 Data added successfully.
+```
 //paste your output here
 
 
@@ -370,6 +374,7 @@ int main()
 
 
 Output:
+
 <img width="323" height="215" alt="image" src="https://github.com/user-attachments/assets/05abaafe-3df8-482e-999d-a055aebbefb4" />
 
 
