@@ -1,5 +1,3 @@
-<img width="270" height="185" alt="image" src="https://github.com/user-attachments/assets/7ba6b0d6-4b25-4d3b-90b3-7bce198da9c7" />
-
 EXP NO 26: C PROGRAM TO DISPLAY STACK ELEMENTS USING LINKED LIST.
 Aim:
 To write a C program to display stack elements using linked list.
